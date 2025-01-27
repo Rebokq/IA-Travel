@@ -99,23 +99,3 @@ Implémentation de l'algorithme de Dijkstra pour :
    ```bash
    python main.py
    ```
-
----
-
-## Contributions
-Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour signaler des bogues ou proposer des améliorations.
-
----
-
-## Auteurs
-- **Votre Nom**  
-- Contact : [email@example.com](mailto:email@example.com)
-
----
-
-## Licence
-Ce projet est sous licence [MIT](LICENSE).
-
---- 
-
-Ajoutez ce fichier à la racine de votre projet pour présenter efficacement votre application sur GitHub. Si vous souhaitez des ajustements ou des précisions supplémentaires, faites-le-moi savoir !
